@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admissions Sorting Wizard</title>
+  <link rel="stylesheet" href="styles.css">
+  <!-- RADAR CHART LIBRARY -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- CSV DATABASE -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+</head>
+<body>
+  <div id="wizard-container">
+    <h1>Admissions Sorting Wizard</h1>
+    <div id="step-container">
+      <div id="step-content"></div>
+      <button id="next-button" onclick="nextStep()">Next</button>
+    </div>
+    <div id="results-container" style="display:none;">
+        <h2>Your Admissions Fit Chart</h2>
+        <canvas id="radarChart" width="400" height="400"></canvas>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

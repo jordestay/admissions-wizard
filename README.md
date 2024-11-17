@@ -1,4 +1,4 @@
-### **"Admissions Match Wizard"**
+### **"Admissions Sorting Wizard"**
 
 A hybrid tool combining the **Admissions Fit Score** and the **Wizard Concept** to provide a personalized, guided experience that evaluates a user's fit with their target schools.
 
@@ -6,7 +6,7 @@ A hybrid tool combining the **Admissions Fit Score** and the **Wizard Concept** 
 
 ### **Overview**
 
-The Admissions Match Wizard walks users through a series of questions about their academic, extracurricular, and personal backgrounds, then generates a tailored "Admissions Fit Score" for each selected school. The wizard also provides actionable insights and personalized recommendations to enhance their application.
+The Admissions Sorting Wizard walks users through a series of questions about their academic, extracurricular, and personal backgrounds, then generates a tailored "Admissions Fit Score" for each selected school. The wizard also provides actionable insights and personalized recommendations to enhance their application.
 
 ---
 
@@ -168,13 +168,13 @@ For the MVP of the widget, a **progressive/dynamic input flow** would likely pro
 - **Call-to-Action**: “Want personalized help? Connect with a Leland coach today!”
 ---
 
-### **Pitch Deck for the Admissions Match Wizard**
+### **Pitch Deck for the Admissions Sorting Wizard**
 
 ---
 
 #### **Slide 1: Title**
 
-**Admissions Match Wizard**  
+**Admissions Sorting Wizard**  
 _Personalized insights to boost your admissions success._
 
 ---
@@ -189,7 +189,7 @@ _Personalized insights to boost your admissions success._
 
 #### **Slide 3: Solution**
 
-**The Admissions Match Wizard**
+**The Admissions Sorting Wizard**
 
 - A guided tool that evaluates a user’s profile against their dream schools.
 - Provides a personalized **Admissions Fit Score** and actionable recommendations.
